@@ -6,4 +6,4 @@ Bowen Zuo     100951180
 
 sudoku solver 
 
-#Jump to 3:50 in the video for demo
+# Jump to 3:50 in the video for demo
